@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kariukimoseswambugu-lang.github.io/portfolio/">
+  <a href="https://kariukimoses-254.github.io/portfolio/">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View my portfolio">
   </a>
   <a href="mailto:kariukimoseswambugu@gmail.com">
@@ -23,11 +23,11 @@ Live front-end demos you can open in your browser right now — no setup needed.
 
 | Project | What it is | Stack | Demo |
 | :-- | :-- | :-- | :-- |
-| 🏥 **Hospital Management App** | Patient records, appointments and staff dashboards | HTML · CSS · JS · Express · MySQL | [Open ↗](https://kariukimoseswambugu-lang.github.io/portfolio/projects/hospital-app/home.html) |
-| 🚗 **Car Dealership Website** | Vehicle listings, admin panel and a JWT-secured REST API | Express · MySQL · JWT · bcrypt | [Open ↗](https://kariukimoseswambugu-lang.github.io/portfolio/projects/car-dealers/index.html) |
-| 🏍️ **Motorcycle Dealership** | Showroom site with image uploads and an admin dashboard | Express · MySQL · Multer | [Open ↗](https://kariukimoseswambugu-lang.github.io/portfolio/projects/motorcycle-dealers/home.html) |
-| 📱 **Phones & Laptops Store** | E-commerce storefront with a cart and checkout flow | React · Vite | [Open ↗](https://kariukimoseswambugu-lang.github.io/portfolio/projects/phones-laptops/index.html) |
-| 🏘️ **Real Estate Platform** | Property listings with customer, tenant and admin roles | Express · MySQL · JWT · Nodemailer | [Open ↗](https://kariukimoseswambugu-lang.github.io/portfolio/projects/estate/frontend/index.html) |
+| 🏥 **Hospital Management App** | Patient records, appointments and staff dashboards | HTML · CSS · JS · Express · MySQL | [Open ↗](https://kariukimoses-254.github.io/portfolio/projects/hospital-app/home.html) |
+| 🚗 **Car Dealership Website** | Vehicle listings, admin panel and a JWT-secured REST API | Express · MySQL · JWT · bcrypt | [Open ↗](https://kariukimoses-254.github.io/portfolio/projects/car-dealers/index.html) |
+| 🏍️ **Motorcycle Dealership** | Showroom site with image uploads and an admin dashboard | Express · MySQL · Multer | [Open ↗](https://kariukimoses-254.github.io/portfolio/projects/motorcycle-dealers/home.html) |
+| 📱 **Phones & Laptops Store** | E-commerce storefront with a cart and checkout flow | React · Vite | [Open ↗](https://kariukimoses-254.github.io/portfolio/projects/phones-laptops/index.html) |
+| 🏘️ **Real Estate Platform** | Property listings with customer, tenant and admin roles | Express · MySQL · JWT · Nodemailer | [Open ↗](https://kariukimoses-254.github.io/portfolio/projects/estate/frontend/index.html) |
 
 <sub>Each demo ships a working front end; the backend APIs (Express + MySQL) are in the same repository.</sub>
 
@@ -53,7 +53,7 @@ Live front-end demos you can open in your browser right now — no setup needed.
 ### 📫 Connect with me
 
 <p>
-  <a href="https://kariukimoseswambugu-lang.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://kariukimoses-254.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://wa.me/254793489901"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:kariukimoseswambugu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.facebook.com/lily.mosey.64994"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
